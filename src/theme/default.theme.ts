@@ -28,15 +28,15 @@ export const theme = createTheme({
       '700': '#0059B2',
       '800': '#004C99',
       '900': '#003A75',
-      main: '#3399FF',
-      light: '#66B2FF',
-      dark: '#0059B2',
-      contrastText: 'rgba(0, 0, 0, 0.87)',
+      main: '#02d463',
+      light: '#25e57e',
+      dark: '#16b660',
+      contrastText: 'rgba(255, 255, 255, 0.8)',
     },
     divider: 'rgba(194, 224, 255, 0.08)',
     background: {
-      default: '#001E3C',
-      paper: '#001E3C',
+      default: '#1a1a1a',
+      paper: '#212121',
     },
     common: {
       black: '#1D1D1D',
@@ -90,7 +90,7 @@ export const theme = createTheme({
       '700': '#1AA251',
       '800': '#178D46',
       '900': '#0F5C2E',
-      main: '#1DB45A',
+      main: '#02d463',
       light: '#6AE79C',
       dark: '#1AA251',
       contrastText: 'rgba(0, 0, 0, 0.87)',
@@ -145,7 +145,7 @@ export const theme = createTheme({
   unstable_strictMode: true,
   typography: {
     fontFamily:
-      '"IBM Plex Sans",-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol"',
+      '"PlusJakartaSans-Regular",-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol"',
     h1: {
       fontFamily:
         '"PlusJakartaSans-ExtraBold",-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol"',
@@ -194,7 +194,7 @@ export const theme = createTheme({
       fontSize: '1.25rem',
       lineHeight: 1.5,
       fontFamily:
-        '"IBM Plex Sans",-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol"',
+        '"PlusJakartaSans-Bold",-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol"',
       fontWeight: 500,
       scrollMarginTop: 'calc(var(--MuiDocs-header-height) + 32px)',
     },
