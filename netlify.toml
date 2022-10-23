@@ -1,0 +1,23 @@
+[[redirects]]
+from = "/*"
+to = "/index.html"
+status = 200
+force = false
+
+[[redirects]]
+from = "/restore-storage"
+to = "/restore-storage"
+status = 200
+force = false
+
+[[redirects]]
+from = "/sign-in"
+to = "/sign-in"
+status = 200
+force = false
+
+[[redirects]]
+from = "/sign-up"
+to = "/sign-up"
+status = 200
+force = false
